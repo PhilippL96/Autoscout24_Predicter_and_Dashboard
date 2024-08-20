@@ -16,7 +16,7 @@ Dieses Projekt analysiert Autopreise in Deutschland mithilfe eines [AutoScout24-
 3. **Aktualisiere die Verbindungen** und überprüfe, ob die Daten korrekt geladen wurden.
 
 ## 2. Streamlit App
-- **Autopreis-Vorhersage**: Eine Streamlit-Anwendung, die es Nutzern ermöglicht, spezifische Daten zu einem Auto einzugeben (z.B. Marke, Modell, Baujahr, Kilometerstand, etc.). Die App verwendet einen trainierten Random Forest Regressor, um den Preis des Autos vorherzusagen.
+- **Autopreis-Vorhersage**: Eine Streamlit-Anwendung, die es Nutzern ermöglicht, spezifische Daten zu einem Auto einzugeben (z.B. Marke, Modell, Baujahr, Kilometerstand, etc.). Die App verwendet einen trainierten Random Forest Regressor, um den Preis des Autos vorherzusagen. Die verwendeten Parameter wurden zuvor in einer Grid Search ermittelt.
 
 ---
 
