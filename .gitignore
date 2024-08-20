@@ -22,6 +22,9 @@ yarn-error.log*
 # Jupyter Notebooks
 *.ipynb
 
+#Tableau
+*.twbr
+
 # Adobe Acrobat Dateien (PDFs)
 *.pdf
 
