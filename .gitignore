@@ -22,15 +22,8 @@ yarn-error.log*
 # Jupyter Notebooks
 *.ipynb
 
-#Tableau
-*.twbr
-
 # Adobe Acrobat Dateien (PDFs)
 *.pdf
-
-# PowerPoint Dateien
-*.ppt
-*.pptx
 
 # Environment variables
 .env

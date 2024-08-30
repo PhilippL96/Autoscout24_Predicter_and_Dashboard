@@ -1,6 +1,6 @@
 # AutoScout24 Autopreisanalyse und Vorhersage
 
-Dieses Projekt analysiert Autopreise in Deutschland mithilfe eines [AutoScout24-Datensatzes](https://www.kaggle.com/datasets/ander289386/cars-germany) von Kaggle. Das Projekt besteht aus zwei Hauptteilen:
+Dieses Projekt analysiert Autopreise in Deutschland mithilfe eines [AutoScout24-Datensatzes](https://www.kaggle.com/datasets/ander289386/cars-germany) von Kaggle. Beigefügt ist eine PowerPoint-Präsentatoin, die Zusatzanalysen wie Korrelationen zwischen den unterschiedlichen Features enthält. Das eigentliche Projekt besteht aus zwei Hauptteilen:
 
 ## 1. Tableau Dashboards
 - **Allgemeine Trends Dashboard**: Visualisiert allgemeine Trends im Automarkt, wie Durchschnittspreise nach Automarke, Modell und Jahr.
